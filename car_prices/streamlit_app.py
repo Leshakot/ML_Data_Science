@@ -15,7 +15,7 @@ df[['brand', 'name']] = df['name'].str.split(pat = ' ', n = 1 , expand= True)
 df['seats'] = df['seats'].fillna(0)
 df['seats'] = df['seats'].astype(int)
 
-image = Image.open('car.jpg')
+image = Image.open('car_prices/car.jpg')
 st.set_page_config(
     layout="wide",
     initial_sidebar_state="auto",
