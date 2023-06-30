@@ -4,7 +4,7 @@ import streamlit as st
 from PIL import Image
 
 DATASET = "https://raw.githubusercontent.com/Leshakot/ML_Data_Science/main/car_prices/cars.csv"
-MODEL = ".car_prices/model_streamlit.pickle"
+MODEL = "car_prices/model_streamlit.pickle"
 
 df = pd.read_csv(DATASET)
 
