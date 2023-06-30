@@ -1,7 +1,7 @@
 ## Прогноз стоимости подержанного автомобиля  
 
 ### Приложение 
-[carprices](https://carprices.streamlit.app/)
+[Carprices](https://carprices.streamlit.app/)
 
 
 ### Задача
