@@ -2,7 +2,8 @@
 
 
 ### Задача
-Предсказать стоимость поддержанного автомобиля.
+Предсказать стоимость поддержанного автомобиля. 
+Создать приложение в Streamlit
 
 ### Описание проекта 
 Датасет содержит информацию о характеристиках и ценах подержанных автомобилей в некоторой стране.  
@@ -24,7 +25,7 @@
 
   
 ### Навыки и инструменты
-Pandas, Python, NumPy, Sklearn, Matplotlib, Seaborn, CatBoost, предобработка данных.
+Pandas, Python, NumPy, Sklearn, Matplotlib, Seaborn, CatBoost, Streamlit, предобработка данных.
 
 
 ![DS2](https://github.com/Leshakot/ML_Data_Science/assets/119577732/0496b737-0afc-462e-b46e-9319ec8559b2)
